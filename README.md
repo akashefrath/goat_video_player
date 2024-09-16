@@ -6,7 +6,7 @@ This is the same good old Better Player with fixes and updates,
 Because the publisher of Better Player doesn't maintain it anymore.
 
 # Changes
-
+**Goat Greatest Of All Time**
 **Fixes:**  
 ✔️ Migrated to AndroidX Media3  
 ✔️ Dependency updates jhomlala/betterplayer#1291  
@@ -14,7 +14,7 @@ Because the publisher of Better Player doesn't maintain it anymore.
 ✔️ Changed Gradle Build Tool version to v7.4.2  
 ✔️ Changed Kotlin Plugin version to v1.8.10  
 ✔️ Refactoring and Deprecated Api replaces  
-✔️ iOS Fix akashefrath/goat_video_player/pull/1  
+✔️ iOS Fix 
 
 **Features:**  
 ✔️ Added Persian language support jhomlala/betterplayer#1250
