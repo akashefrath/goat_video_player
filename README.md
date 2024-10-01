@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/akashefrath/goat_video_player/master/media/logo_result.webp">
-</p>
+
+
 
 This is the same good old Better Player with fixes and updates,
 Because the publisher of Better Player doesn't maintain it anymore.

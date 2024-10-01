@@ -7,6 +7,7 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
+
 // Flutter imports:
 import 'package:goat_player/src/configuration/better_player_buffering_configuration.dart';
 

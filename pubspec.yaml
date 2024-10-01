@@ -1,6 +1,6 @@
 name: goat_player
 description: Same good old Better Player but it will get updated and fixed and remain GOAT.
-version: 0.0.2
+version: 0.0.3
 
 homepage: https://github.com/akashefrath/goat_player
 documentation: https://jhomlala.github.io/betterplayer/
@@ -18,7 +18,7 @@ dependencies:
   flutter_widget_from_html_core: ^0.14.11
   visibility_detector: ^0.4.0+2
   path_provider: ^2.0.10
-  collection: ^1.16.0
+  collection: ^1.18.0
   xml: ^6.1.0
 
 dev_dependencies:
