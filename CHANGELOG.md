@@ -1,4 +1,7 @@
+## 0.0.4
 
+* minor fixes.
+* dependencies updated.
 ## 0.0.3
 
 * minor fixes.
